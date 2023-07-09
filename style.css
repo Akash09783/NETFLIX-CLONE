@@ -7,11 +7,6 @@
 body{
     background-color: #000;
     color: #fff;
-    
-    background-size: cover;
-    background-position: center;
-    padding: 10px 8%;
-    position: relative;
 }
 
 .header{
@@ -117,6 +112,12 @@ nav button{
 .text-col{
     flex-basis: 50%;
     margin-bottom: 20px;
+}
+.img-col{
+
+    flex-basis: 50%;
+    margin-bottom: 20px;
+    margin: auto;
 }
 
 .img-col img{
